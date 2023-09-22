@@ -1,0 +1,61 @@
+name,Transaction Date,Payment Terms,Due  Date,Outstanding Amount,Current,01-31 Days Past Due ,32-61 Days Past Due,62-91 Days Past Due,92-181 Days Past Due,182-361 Days Past Due,362 + Days Past Due
+"Cadena Tres I, S.A. de C.V.",12/29/2020,,12/29/2020,-22402.75,0,-22402.75,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",12/23/2020,,12/23/2020,-22402.75,0,-22402.75,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",12/18/2020,,12/18/2020,-22402.75,0,-22402.75,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",12/11/2020,,12/11/2020,-22402.75,0,-22402.75,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",11/27/2020,,11/27/2020,-68822.25,0,0,-68822.25,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",11/20/2020,,11/20/2020,-68454.39,0,0,-68454.39,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",11/13/2020,,11/13/2020,-31320,0,0,-31320,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",11/6/2020,,11/6/2020,-13000,0,0,-13000,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/30/2020,,10/30/2020,-13000,0,0,0,-13000,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/23/2020,,10/23/2020,-10440,0,0,0,-10440,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/16/2020,,10/16/2020,-13000,0,0,0,-13000,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/9/2020,,10/9/2020,-13000,0,0,0,-13000,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/2/2020,,10/2/2020,-5220,0,0,0,-5220,0,0,0
+"Cadena Tres I, S.A. de C.V.",4/24/2020,,4/24/2020,-5220,0,0,0,0,0,-5220,0
+"Cadena Tres I, S.A. de C.V.",11/30/2020,30 NET,12/30/2020,1282.96,0,1282.96,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",11/1/2020,1st Next Month,12/1/2020,62640,0,62640,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/31/2020,30 NET,11/30/2020,641.48,0,641.48,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/1/2020,1st Next Month,11/1/2020,62640,0,0,62640,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",9/30/2020,30 NET,10/30/2020,1282.96,0,0,0,1282.96,0,0,0
+"Cadena Tres I, S.A. de C.V.",9/1/2020,1st Next Month,10/1/2020,62640,0,0,0,62640,0,0,0
+"Cadena Tres I, S.A. de C.V.",8/31/2020,30 NET,9/30/2020,1924.44,0,0,0,0,1924.44,0,0
+"Cadena Tres I, S.A. de C.V.",8/1/2020,1st Next Month,9/1/2020,62640,0,0,0,0,62640,0,0
+"Cadena Tres I, S.A. de C.V.",7/1/2020,1st Next Month,8/1/2020,62640,0,0,0,0,62640,0,0
+"Cadena Tres I, S.A. de C.V.",6/1/2020,1st Next Month,7/1/2020,62640,0,0,0,0,0,62640,0
+"Cadena Tres I, S.A. de C.V.",5/1/2020,1st Next Month,6/1/2020,62640,0,0,0,0,0,62640,0
+"Cadena Tres I, S.A. de C.V.",4/1/2020,1st Next Month,5/1/2020,62640,0,0,0,0,0,62640,0
+"Cadena Tres I, S.A. de C.V.",3/31/2020,30 NET,4/30/2020,641.48,0,0,0,0,0,641.48,0
+"Cadena Tres I, S.A. de C.V.",3/1/2020,1st Next Month,4/1/2020,40237,0,0,0,0,0,40237,0
+"Cadena Tres I, S.A. de C.V.",2/1/2020,1st Next Month,3/1/2020,58203,0,0,0,0,0,58203,0
+"Cadena Tres I, S.A. de C.V.",1/1/2020,1st Next Month,2/1/2020,57420,0,0,0,0,0,57420,0
+"Cadena Tres I, S.A. de C.V.",12/31/2019,30 NET,1/30/2020,0.01,0,0,0,0,0,0.01,0
+"Cadena Tres I, S.A. de C.V.",10/1/2018,1st Next Month,11/1/2018,62640,0,0,0,0,0,0,62640
+"Cadena Tres I, S.A. de C.V.",8/31/2018,30 NET,9/30/2018,1295.34,0,0,0,0,0,0,1295.34
+"Cadena Tres I, S.A. de C.V.",11/1/2020,1st Next Month,12/1/2020,9400,0,9400,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",10/1/2020,1st Next Month,11/1/2020,9400,0,0,9400,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",9/1/2020,1st Next Month,10/1/2020,9400,0,0,0,9400,0,0,0
+"Cadena Tres I, S.A. de C.V.",8/1/2020,1st Next Month,9/1/2020,9400,0,0,0,0,9400,0,0
+"Cadena Tres I, S.A. de C.V.",7/1/2020,1st Next Month,8/1/2020,9400,0,0,0,0,9400,0,0
+"Cadena Tres I, S.A. de C.V.",6/1/2020,1st Next Month,7/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",5/1/2020,1st Next Month,6/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",4/1/2020,1st Next Month,5/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",3/1/2020,1st Next Month,4/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",2/1/2020,1st Next Month,3/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",1/1/2020,1st Next Month,2/1/2020,9400,0,0,0,0,0,9400,0
+"Cadena Tres I, S.A. de C.V.",12/1/2019,1st Next Month,1/1/2020,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",11/1/2019,1st Next Month,12/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",10/1/2019,1st Next Month,11/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",9/1/2019,1st Next Month,10/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",8/1/2019,1st Next Month,9/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",7/1/2019,1st Next Month,8/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",6/1/2019,1st Next Month,7/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",5/1/2019,1st Next Month,6/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",4/1/2019,1st Next Month,5/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",3/1/2019,1st Next Month,4/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",2/1/2019,1st Next Month,3/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",1/1/2019,1st Next Month,2/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",12/1/2018,1st Next Month,1/1/2019,9400,0,0,0,0,0,0,9400
+"Cadena Tres I, S.A. de C.V.",9/1/2018,1st Next Month,10/1/2018,33354.84,0,0,0,0,0,0,33354.84
+"Cadena Tres I, S.A. de C.V.",12/1/2020,1st Next Month,1/1/2021,9400,9400,0,0,0,0,0,0
+"Cadena Tres I, S.A. de C.V.",12/1/2020,1st Next Month,1/1/2021,62640,62640,0,0,0,0,0,0
