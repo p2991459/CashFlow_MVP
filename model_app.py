@@ -15,7 +15,6 @@ if uploaded_file is not None:
     df['Transaction Date_year'] = df['Transaction Date'].dt.year
     df['Transaction Date_quarter'] = df['Transaction Date'].dt.quarter
     df['Transaction Date_month_number'] = df['Transaction Date'].dt.month
-    # df['Transaction Date_week'] = df['Transaction Date'].dt.week
     df['Transaction Date_dayofyear'] = df['Transaction Date'].dt.dayofyear
     df['Transaction Date_dayofweek'] = df['Transaction Date'].dt.dayofweek
     df['Due  Date_year'] = df['Due  Date'].dt.year
