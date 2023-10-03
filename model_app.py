@@ -20,7 +20,6 @@ if uploaded_file is not None:
     df['Due  Date_year'] = df['Due  Date'].dt.year
     df['Due  Date_quarter'] = df['Due  Date'].dt.quarter
     df['Due  Date_month_number'] = df['Due  Date'].dt.month
-    df['Due  Date_week'] = df['Due  Date'].dt.week
     df['Due  Date_dayofyear'] = df['Due  Date'].dt.dayofyear
     df['Due  Date_dayofweek'] = df['Due  Date'].dt.dayofweek
     inputs = list(df.columns)
